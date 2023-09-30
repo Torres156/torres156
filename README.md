@@ -1,5 +1,5 @@
 # 💫 Sobre:
-🔭 Atualmente trabalho como Desenvolvedor Back-end na KBR TEC.<br>🌱 Estou estudando atualmente NodeJS(AdonisJS) e VUE.<br>
+🔭 Atualmente trabalho como Analista Desenvolvedor Back-end na KBR TEC.<br>🌱 Gosto muito de estudar tecnologias e ferramentas novas no meu tempo livre.
 
 
 ## 🌐 Redes Sociais:
